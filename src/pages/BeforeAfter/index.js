@@ -1,10 +1,10 @@
 import React, {Component} from "react";
 
-export class Reviews extends Component{
+export class BeforeAfter extends Component{
     render(){
             return(
                 <div>
-                    reviews
+                    before/after
                 </div>
             )
     }
