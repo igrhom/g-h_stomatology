@@ -1,0 +1,8 @@
+.parentCont{
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttton{
+    max-width: 20vw;
+}

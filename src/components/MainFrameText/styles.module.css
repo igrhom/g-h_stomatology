@@ -1,0 +1,17 @@
+.mainStyles{ 
+    position: absolute;
+    left: 1.41em;
+    top: 3.6em;
+
+    height: 1.629em;
+    width: 600px;
+    font-weight: 700;
+    font-size: 3.5em;
+    line-height: 1.3em;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
