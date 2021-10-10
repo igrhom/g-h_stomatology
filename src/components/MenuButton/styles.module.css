@@ -1,8 +1,7 @@
 .buttonStyle { 
-    height: 2.25em;
-    width: 12em;
+    width: 240px;
+    height: 45px;
     background-color:  #A1CF6B;
-
     font-size: 1em;
     display:flex;
     flex-direction: row;
@@ -13,7 +12,10 @@
 }
 
 .mainStyles{
-    float:left;
+    width: 240px;
+    height: 45px;
+    float:right;
+    
 }
 
 
